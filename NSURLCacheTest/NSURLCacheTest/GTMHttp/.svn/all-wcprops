@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp
+END
+GTMReadMonitorInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMReadMonitorInputStream.m
+END
+GTMHTTPUploadFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMHTTPUploadFetcher.h
+END
+GTMHTTPFetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMHTTPFetcher.m
+END
+GTMMIMEDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMMIMEDocument.h
+END
+GTMHTTPFetcherLogging.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMHTTPFetcherLogging.h
+END
+GTMHTTPUploadFetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMHTTPUploadFetcher.m
+END
+GTMMIMEDocument.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMMIMEDocument.m
+END
+GTMHTTPFetcherLogging.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMHTTPFetcherLogging.m
+END
+GTMHTTPFetcherService.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMHTTPFetcherService.h
+END
+GTMHTTPFetcherService.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMHTTPFetcherService.m
+END
+GTMGatherInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMGatherInputStream.h
+END
+ReleaseNotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/ReleaseNotes.txt
+END
+GTMHTTPFetchHistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMHTTPFetchHistory.h
+END
+GTMGatherInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMGatherInputStream.m
+END
+GTMReadMonitorInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMReadMonitorInputStream.h
+END
+GTMHTTPFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMHTTPFetcher.h
+END
+GTMHTTPFetchHistory.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/GTMHTTPFetchHistory.m
+END

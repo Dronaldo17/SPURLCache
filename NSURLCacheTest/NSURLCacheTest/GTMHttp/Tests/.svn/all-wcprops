@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests
+END
+GTMHTTPFetcherCachingTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMHTTPFetcherCachingTest.m
+END
+GTMReadMonitorInputStreamTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMReadMonitorInputStreamTest.m
+END
+GTMHTTPFetcherServiceTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMHTTPFetcherServiceTest.m
+END
+GTMHTTPServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMHTTPServer.h
+END
+GTMHTTPFetcherTestServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMHTTPFetcherTestServer.h
+END
+GTMHTTPFetcherUtilityTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMHTTPFetcherUtilityTest.m
+END
+GTMHTTPUploadFetcherTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMHTTPUploadFetcherTest.m
+END
+GTMGatherInputStreamTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMGatherInputStreamTest.m
+END
+GTMHTTPServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMHTTPServer.m
+END
+GTMMIMEDocumentTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMMIMEDocumentTest.m
+END
+GTMHTTPFetcherTestServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMHTTPFetcherTestServer.m
+END
+GTMHTTPFetcherFetchingTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/labs/!svn/ver/5/trunk/SPHttpRequest/GTMHttp/SPHttpRequest/SPHttpRequest/GTMHttp/Tests/GTMHTTPFetcherFetchingTest.m
+END
