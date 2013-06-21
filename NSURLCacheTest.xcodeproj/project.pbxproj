@@ -30,6 +30,13 @@
 		959C815C1772E04100B3936D /* ReleaseNotes.txt in Resources */ = {isa = PBXBuildFile; fileRef = 959C81411772E04100B3936D /* ReleaseNotes.txt */; };
 		959C81681772E04100B3936D /* SPHttpRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 959C81531772E04100B3936D /* SPHttpRequest.m */; };
 		959C816E1772EEA200B3936D /* SandboxFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 959C816D1772EEA200B3936D /* SandboxFile.m */; };
+		959C81701773F10F00B3936D /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = 959C816F1773F10E00B3936D /* test.html */; };
+		95DBD926177430DD00267DEA /* FGalleryPhoto.m in Sources */ = {isa = PBXBuildFile; fileRef = 95DBD921177430DD00267DEA /* FGalleryPhoto.m */; };
+		95DBD927177430DD00267DEA /* FGalleryPhotoView.m in Sources */ = {isa = PBXBuildFile; fileRef = 95DBD923177430DD00267DEA /* FGalleryPhotoView.m */; };
+		95DBD928177430DD00267DEA /* FGalleryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 95DBD925177430DD00267DEA /* FGalleryViewController.m */; };
+		95DBD92A177431D200267DEA /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 95DBD929177431D200267DEA /* QuartzCore.framework */; };
+		95DBD92E17743FAB00267DEA /* CatPictureVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 95DBD92C17743FAB00267DEA /* CatPictureVC.m */; };
+		95DBD92F17743FAB00267DEA /* CatPictureVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 95DBD92D17743FAB00267DEA /* CatPictureVC.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +79,17 @@
 		959C81531772E04100B3936D /* SPHttpRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPHttpRequest.m; sourceTree = "<group>"; };
 		959C816C1772EEA200B3936D /* SandboxFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SandboxFile.h; sourceTree = "<group>"; };
 		959C816D1772EEA200B3936D /* SandboxFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SandboxFile.m; sourceTree = "<group>"; };
+		959C816F1773F10E00B3936D /* test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
+		95DBD920177430DD00267DEA /* FGalleryPhoto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FGalleryPhoto.h; sourceTree = "<group>"; };
+		95DBD921177430DD00267DEA /* FGalleryPhoto.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FGalleryPhoto.m; sourceTree = "<group>"; };
+		95DBD922177430DD00267DEA /* FGalleryPhotoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FGalleryPhotoView.h; sourceTree = "<group>"; };
+		95DBD923177430DD00267DEA /* FGalleryPhotoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FGalleryPhotoView.m; sourceTree = "<group>"; };
+		95DBD924177430DD00267DEA /* FGalleryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FGalleryViewController.h; sourceTree = "<group>"; };
+		95DBD925177430DD00267DEA /* FGalleryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FGalleryViewController.m; sourceTree = "<group>"; };
+		95DBD929177431D200267DEA /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		95DBD92B17743FAB00267DEA /* CatPictureVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CatPictureVC.h; sourceTree = "<group>"; };
+		95DBD92C17743FAB00267DEA /* CatPictureVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CatPictureVC.m; sourceTree = "<group>"; };
+		95DBD92D17743FAB00267DEA /* CatPictureVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CatPictureVC.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +97,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95DBD92A177431D200267DEA /* QuartzCore.framework in Frameworks */,
 				959C810B1772DB1F00B3936D /* UIKit.framework in Frameworks */,
 				959C810D1772DB1F00B3936D /* Foundation.framework in Frameworks */,
 				959C810F1772DB1F00B3936D /* CoreGraphics.framework in Frameworks */,
@@ -91,6 +110,7 @@
 		959C80FE1772DB1F00B3936D = {
 			isa = PBXGroup;
 			children = (
+				95DBD929177431D200267DEA /* QuartzCore.framework */,
 				959C81301772E04100B3936D /* GTMHttp */,
 				959C81511772E04100B3936D /* SPHttp */,
 				959C81101772DB1F00B3936D /* NSURLCacheTest */,
@@ -120,6 +140,10 @@
 		959C81101772DB1F00B3936D /* NSURLCacheTest */ = {
 			isa = PBXGroup;
 			children = (
+				95DBD92B17743FAB00267DEA /* CatPictureVC.h */,
+				95DBD92C17743FAB00267DEA /* CatPictureVC.m */,
+				95DBD92D17743FAB00267DEA /* CatPictureVC.xib */,
+				959C816F1773F10E00B3936D /* test.html */,
 				959C816C1772EEA200B3936D /* SandboxFile.h */,
 				959C816D1772EEA200B3936D /* SandboxFile.m */,
 				959C812D1772DB6F00B3936D /* SPURLCache.h */,
@@ -137,6 +161,7 @@
 		959C81111772DB1F00B3936D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				95DBD91F177430DD00267DEA /* FGalley */,
 				959C81121772DB1F00B3936D /* NSURLCacheTest-Info.plist */,
 				959C81131772DB1F00B3936D /* InfoPlist.strings */,
 				959C81161772DB2000B3936D /* main.m */,
@@ -181,6 +206,19 @@
 			);
 			name = SPHttp;
 			path = NSURLCacheTest/SPHttp;
+			sourceTree = "<group>";
+		};
+		95DBD91F177430DD00267DEA /* FGalley */ = {
+			isa = PBXGroup;
+			children = (
+				95DBD920177430DD00267DEA /* FGalleryPhoto.h */,
+				95DBD921177430DD00267DEA /* FGalleryPhoto.m */,
+				95DBD922177430DD00267DEA /* FGalleryPhotoView.h */,
+				95DBD923177430DD00267DEA /* FGalleryPhotoView.m */,
+				95DBD924177430DD00267DEA /* FGalleryViewController.h */,
+				95DBD925177430DD00267DEA /* FGalleryViewController.m */,
+			);
+			path = FGalley;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -240,6 +278,8 @@
 				959C81211772DB2000B3936D /* Default-568h@2x.png in Resources */,
 				959C81271772DB2000B3936D /* ViewController.xib in Resources */,
 				959C815C1772E04100B3936D /* ReleaseNotes.txt in Resources */,
+				959C81701773F10F00B3936D /* test.html in Resources */,
+				95DBD92F17743FAB00267DEA /* CatPictureVC.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +304,10 @@
 				959C815B1772E04100B3936D /* GTMReadMonitorInputStream.m in Sources */,
 				959C81681772E04100B3936D /* SPHttpRequest.m in Sources */,
 				959C816E1772EEA200B3936D /* SandboxFile.m in Sources */,
+				95DBD926177430DD00267DEA /* FGalleryPhoto.m in Sources */,
+				95DBD927177430DD00267DEA /* FGalleryPhotoView.m in Sources */,
+				95DBD928177430DD00267DEA /* FGalleryViewController.m in Sources */,
+				95DBD92E17743FAB00267DEA /* CatPictureVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -384,6 +428,7 @@
 				959C812C1772DB2000B3936D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

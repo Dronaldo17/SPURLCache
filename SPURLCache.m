@@ -119,7 +119,6 @@
         // downLoad this URLRequest 
 //        [self downThisURLToLocal:request];
 
-        
     }
     
     return cacheResponse;
@@ -143,15 +142,16 @@
 
     NSLog(@"ressourceName is%@",ressourceName);
     //we're only caching the following files 后续支持路径
-    if (
-        [ressourceName rangeOfString:@".png"].location!=NSNotFound ||
-        [ressourceName rangeOfString:@".jpg"].location!=NSNotFound ||
-        [ressourceName rangeOfString:@".gif"].location!=NSNotFound 
-        ) {
-        return NO;
-    }
+//    if (
+//        [ressourceName rangeOfString:@".png"].location!=NSNotFound ||
+//        [ressourceName rangeOfString:@".jpg"].location!=NSNotFound ||
+//        [ressourceName rangeOfString:@".gif"].location!=NSNotFound 
+//        ) {
+//        return NO;
+//    }
     
-    return YES;
+    return NO;
+//    return YES;
 }
 -(void)downThisURLToLocal:(NSURL*)url
 {

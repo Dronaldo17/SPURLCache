@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "FGalleryViewController.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UIGestureRecognizerDelegate,UIWebViewDelegate,FGalleryViewControllerDelegate>
 {
     IBOutlet UIWebView * webView;
+    NSMutableArray * _phototArray;
 }
 @end
